@@ -1,0 +1,3 @@
+/home/lifefire1/CLionProjects/practice/CMakeFiles/practice.dir
+/home/lifefire1/CLionProjects/practice/CMakeFiles/edit_cache.dir
+/home/lifefire1/CLionProjects/practice/CMakeFiles/rebuild_cache.dir
